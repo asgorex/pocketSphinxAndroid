@@ -1,0 +1,6 @@
+#JSGF V1.0;
+
+grammar calculadora;
+
+public <item> = limpiar | uno | dos | tres | cuatro | cinco | seis | siete | ocho | nueve | diez | mas | menos | por | dividido | igual | empezar;
+//

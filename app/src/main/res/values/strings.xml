@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PocketSphinxPrueva</string>
+    <string name="kws_caption">Para iniciar la demostración decir \"mario\".</string>
+    <string name="menu_caption">Decir \"izquierda\", \"derecha\", \"arriba\" o \"abajo\" para mover le grafico .</string>
+    <string name="digits_caption">Para tratar el reconocimiento de dígitos : decir algo como \"uno dos tres\".</string>
+    <string name="forecast_caption">Para tratar de reconocimiento de la previsión meteorológica, como \"nubes y claros el miércoles\".</string>
+    <string name="phone_caption">Para terminar el reconocimiento fonético no decir nada.</string>
+</resources>
